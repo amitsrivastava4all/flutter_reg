@@ -1,0 +1,25 @@
+
+Algo
+Missing Number Problem
+Arr = [1,4,5,3];
+T = 1 + 2 + 3 + 4 + 5 - Math N Natural Formula O(1)
+Y = 1 + 4 + 5 + 3 = O(N)
+T-Y = ? Missing Number
+
+Data Type Exhaust
+Hint : Map Use
+
+
+System Design
+I want to build a Shopping Application. Want to maintain Customer Records Assuming 5 Records
+“Rahul” ==> Name , Age, Address, Phone
+Address It is of 2 types
+A) office address b) res address
+Office address - is N , But all are unique and Sorted
+Res address - is N  , But all are unique and sorted
+Customer Can have N Orders and order access by orderid , order id are unique
+In Order we have Order Name, Products
+Products can be N and are not unique and are sorted.
+Product and order total Summary , Total orders and Amount total.
+
+TestCases
