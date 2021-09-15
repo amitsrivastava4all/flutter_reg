@@ -1,0 +1,72 @@
+
+Question:
+Maintain 5 Customer Records , All Customer are access by CustomerId
+All Customer Id are Unique
+Customer contains Id , Name, Balance, City, Phone
+Customer can have 2 kind of Address
+1. Office Address
+2. Res Address
+Office Address can be N but unique
+Same for the Res Address
+Address contains City, State, PinCode, StreetNo, Country
+
+Customer can have N orders
+Orders are access by Order id , Order id are unique
+Order Contains Id , Name, DelDate, Amount, Del Location (Address)
+
+Order can have N products 
+Products can be duplicate and Products can be sorted by price, brandname
+Product contains id, brandname, price, qty
+
+Hint: Classes identify , how one class call another 
+Data Structure / Collection (List, Map, Set)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create a class Student , which contains id, name, 3 subject marks
+Take all these information from the standard input device.
+Student also contain institute name and city , also age
+But id , name 3 subject marks , institute name are compulsory
+Compute total marks of the student
+And compute percentage of the student
+And compute grade of the student
+>=90 A
+<90 to >=70B
+<70 to >=50 C
+<50 D
+
+Rules: SRP , DRY
+
+Print Report Card of a Student. In the following format
+Name: Amit Srivastava (Name must be comes in Proper Case)
+Institute Name : BRAIN MENTORS ( ALL CAPS)
+City if present so display it
+Phone if present so display it
+Subject 1: 90
+Subject 2: 87
+Subject 3: 77
+Total Marks : 
+Percentage
+Grade
+
+ 
